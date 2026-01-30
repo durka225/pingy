@@ -1,0 +1,25 @@
+*.iml
+.gradle
+.idea/
+.DS_Store
+
+# Local config / secrets
+local.properties
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.pem
+*.der
+*.key
+
+# Build outputs
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Logs
+*.log
